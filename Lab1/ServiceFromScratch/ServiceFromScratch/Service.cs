@@ -17,7 +17,7 @@ namespace ServiceFromScratch
    {
       public string HelloIndigo()
       {
-         return "Hello Indigo";
+         return "Hello Indigo!!";
       }
    }
 }
